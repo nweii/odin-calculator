@@ -1,0 +1,19 @@
+{
+  "name": "odin-calculator",
+  "version": "1.0.0",
+  "description": "This is a calculator.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://nweii@github.com/nweii/odin-calculator.git"
+  },
+  "author": "Nathan Cheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nweii/odin-calculator/issues"
+  },
+  "homepage": "https://github.com/nweii/odin-calculator#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
